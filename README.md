@@ -12,3 +12,5 @@ T40901 - Przygotuj grupowo strone zawierajaca nastepujace elementy:
 7. Kontent i zdjęcia [Antoni]
 
 Publiczne repozytrium tutaj: https://github.com/T4aiL/T4-Teamwork.git
+
+Komunikacja przez wiadomości Librus oraz infrmtktl@gmail.com
